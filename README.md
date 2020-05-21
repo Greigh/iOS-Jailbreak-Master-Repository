@@ -29,8 +29,8 @@ Currently you can copy and paste the list to add it to your favorite package man
 ### Recommended Package Managers 
 * Zebra - https://getzbra.com/repo/
 * Installer - https://apptapp.me/repo/
+* Sileo (only for Electra, Chimera12, and Chimera1n) - https://repo.getsileo.app/
 * Cydia is NOT recommended because it is slow and outdated
-* Sileo is ONLY recommended on Chimera/Electra at this time
 
 ### Future plans
 * Creating a DEB to install that will update your sources automatically with any changes that happen! I am busy in my personal life so this may take awhile. So be patient!
