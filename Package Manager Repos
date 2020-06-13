@@ -2,12 +2,6 @@
 // DO NOT USE WITH CHIMERA OR ELECTRA
 https://apt.bingner.com/
 
-//Want to remove Cydia after installing Installer or Zebra?? [Not recommended]
-//Uninstall 'Cydia Installer' and install Essential from repo below.
-//More info: https://www.reddit.com/r/jailbreak/comments/fwell1/release_an_essential_package_thatll_install_with/
-https://mwoolweaver.github.io/essential4all/
-
-
 // Zebra:
 https://getzbra.com/repo/
 https://getzbra.com/beta/
@@ -15,11 +9,13 @@ https://getzbra.com/beta/
 // Installer 5:
 https://apptapp.me/repo/
 
-// Diatrus Sileo [A11 and lower & iOS 12]:
-https://diatr.us/sileo/
-
 // Sileo [checkra1n jailbreak only]:
 https://repo.getsileo.app/
 
 // Saily (Retired)
 https://ouop.github.io/
+
+//Want to remove Cydia after installing Installer or Zebra?? [Not recommended]
+//Uninstall 'Cydia Installer' and install Essential from repo below.
+//More info: https://www.reddit.com/r/jailbreak/comments/fwell1/release_an_essential_package_thatll_install_with/
+https://mwoolweaver.github.io/essential4all/
